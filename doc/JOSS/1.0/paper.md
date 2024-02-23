@@ -122,7 +122,7 @@ Below we show an example input file for a cartesian model, which can be easily c
 
 # Acknowledgements
 
-We would like to acknolege all other contributors to the project, especially Wolfang Bangerth, (Timo and Daniel if not on co-authors), Lorraine Hwang andJohn Naliboff for their advice and support through the years for this project. We would also like to acknowledge NSF for their funding and support through grands EAR-1620618 (CPO), OCE-1948902 (Cascadia), EAR-0949446 (CIG), EAR-1550901 (CIG) and EAR-1925677 (FRES).
+We would like to acknolege all other contributors to the project, especially Wolfang Bangerth, (Timo and Daniel if not on co-authors), Lorraine Hwang and John Naliboff for their advice and support through the years for this project. We would also like to acknowledge NSF for their funding and support through grands EAR-1620618 (CPO), OCE-1948902 (Cascadia), EAR-0949446 (CIG), EAR-1550901 (CIG) and EAR-1925677 (FRES).
 
 # References
 
